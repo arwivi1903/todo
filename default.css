@@ -1,0 +1,23 @@
+
+.heading{
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+.form{
+    max-width: 75%;
+    margin: auto;
+}
+
+.table{
+    max-width: 75%;
+    margin: 30px auto;
+}
+
+.checked {
+    text-decoration: line-through;
+    background :  #ff4040 ;
+    color: #fff;
+  }
+

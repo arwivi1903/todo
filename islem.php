@@ -1,7 +1,7 @@
 <?php
 
-include 'conn.php';
-include 'safe.php';
+require_once 'conn.php';
+require_once 'safe.php';
 
 if(isset($_POST['veri_ekle']))
     {

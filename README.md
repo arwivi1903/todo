@@ -1,2 +1,2 @@
 # todo
-todo test
+todo test amaçlı yazılmıştır
